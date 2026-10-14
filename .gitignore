@@ -15,3 +15,6 @@ config/gemini_key.txt
 # OS files
 .DS_Store
 
+#Logs
+logs/*.log
+*.log
